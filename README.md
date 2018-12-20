@@ -15,6 +15,6 @@ and the total hand value becomes over 21.
 
 4. Add anti-aliasing to all current and future images if animation is to be added.
 
-5. Obviously there should be other issues. Please let me of any. 
+5. Obviously there should be other issues. Please let me know of any. 
 
 I intend to address all above issues in the near future.
